@@ -1,5 +1,5 @@
 # Module-5-Challenge
-# Pymaceuticals Inc. Study on SCC Tumor Treatments
+# Pymaceuticals Inc. Study on Tumor Treatments
 
 ## Observations and Inferences
 
@@ -140,3 +140,7 @@ A line plot is generated that shows the tumor volume vs. time point for one mous
 A scatter plot is generated that shows average tumor volume vs. mouse weight for the Capomulin regimen. (5 points)
 Calculate Correlation and Regression (10 points)
 The correlation coefficient and linear regression model are calculated for mouse weight and average tumor volume for the Capomulin regimen. (10 points)
+
+
+* Please note, to complete this assignment I used in class and external resources including, but not limited to ChatGPT, Bard/Google, websites (Microsoft Learn, github, etc) tutors, other AI powered assistance (this includes using code in which I did not author or create sourced from a forum or other source, such as Stack Overflow, and/or received code outside curriculum content from support staff such as an Instructor, TA, Tutor, or Learning Assistant). Thank you. Siobhan Curran
+
