@@ -12,12 +12,11 @@
 3. **Sex Distribution and Potential Bias**:
    - The pie chart depicting the distribution of female versus male mice shows an almost equal split between the two sexes. This balanced distribution ensures that the results are not biased towards one sex, providing a more comprehensive understanding of how each treatment regimen affects both male and female mice. It also validates that the study's design accounted for sex as a variable, which is crucial in biomedical research to ensure generalizable findings.
 
----
+------------------
 
 ## Data Analysis
 (see notebook)
----
-
+------------------
 Pymaceuticals, Inc
 
 Module 5 Challenge
@@ -141,6 +140,6 @@ A scatter plot is generated that shows average tumor volume vs. mouse weight for
 Calculate Correlation and Regression (10 points)
 The correlation coefficient and linear regression model are calculated for mouse weight and average tumor volume for the Capomulin regimen. (10 points)
 
-
+------------------
 * Please note, to complete this assignment I used in class and external resources including, but not limited to ChatGPT, Bard/Google, websites (Microsoft Learn, github, etc) tutors, other AI powered assistance (this includes using code in which I did not author or create sourced from a forum or other source, such as Stack Overflow, and/or received code outside curriculum content from support staff such as an Instructor, TA, Tutor, or Learning Assistant). Thank you. Siobhan Curran
 
